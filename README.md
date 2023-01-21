@@ -1,4 +1,4 @@
-# 2048 Game
+# 2048 Game <p>(use arrows to move)</p>
 
 - [DEMO LINK](https://matvii1.github.io/2048-game/)
 
