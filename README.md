@@ -1,5 +1,5 @@
 # 2048 Game 
-<p>(use arrows to move)</p>
+use arrows to move
 
 - [DEMO LINK](https://matvii1.github.io/2048-game/)
 
